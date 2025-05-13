@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="telefonrehber">
+  <ActionDesign>
+    <Actions>
+      <Action Id="SendEmail" ImageName="MailMerge" />
+    </Actions>
+  </ActionDesign>
+  <BOModel>
+    <Class Name="DevExpress.Persistent.BaseImpl.PermissionPolicy.PermissionPolicyUser" Caption="Base User" />
+    <Class Name="telefonrehber.Module.BusinessObjects.Contact" ImageName="BO_Contact" />
+  </BOModel>
+  <NavigationItems>
+    <Items>
+      <Item Id="@4d868781-f11e-40d5-9192-515c2d692a28" ImageName="BO_Report" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="@6a98fa59-dd3c-499a-baf0-6c33a960b143" ImageName="BO_List" IsNewNode="True" />
+          <Item Id="ContactReport_ListView" ViewId="ContactReport_ListView" ObjectKey="" IsNewNode="True" />
+          <Item Id="Report" Caption="Report" IsNewNode="True" />
+        </Items>
+      </Item>
+      <Item Id="Default">
+        <Items>
+          <Item Id="ContactReport_ListView" Removed="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <Options>
+    <LayoutManagerOptions RequiredFieldMark="*" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="24.2.3.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="ApplicationUser_ListView" Caption="Users" />
+    <DetailView Id="Contact_DetailView" ImageName="BO_Document">
+      <Layout>
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="Contact">
+              <LayoutGroup Id="Contact_col1">
+                <LayoutItem Id="PhoneNumber" Removed="True" />
+              </LayoutGroup>
+              <LayoutGroup Id="Contact_col2">
+                <LayoutItem Id="PhoneNumber" ViewItem="PhoneNumber" ShowCaption="" Index="0" IsNewNode="True" />
+                <LayoutItem Id="FullName" Index="2" />
+                <LayoutItem Id="Owner" Index="3" />
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <ListView Id="Contact_ListView" AllowEdit="True">
+      <Columns>
+        <ColumnInfo Id="FullName" SortOrder="Ascending" />
+      </Columns>
+    </ListView>
+  </Views>
+</Application>

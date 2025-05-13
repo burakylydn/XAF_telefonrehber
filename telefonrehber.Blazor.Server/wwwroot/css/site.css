@@ -1,0 +1,57 @@
+html, body {
+    height: 100%;
+}
+
+app {
+    display: block;
+    height: 100%;
+}
+
+.header-logo {
+    flex-shrink: 0;
+    background-color: transparent; /* Logo içi beyaz olacak */
+    -webkit-mask: url('../images/galaksity_logo.svg');
+    mask: url('../images/galaksity_logo.svg');
+    -webkit-mask-position: center;
+    mask-position: center;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    width: 28px;
+    height: 24px;
+}
+
+/* Splash Screen için özel bir arka plan ekleyelim */
+.splash-screen {
+    background-color: transparent; /* Eðer arka plan olmasýn istiyorsan */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Tüm ekraný kaplasýn */
+}
+
+    .splash-screen img {
+        filter: invert(100%); /* Siyah olan logoyu beyaza çevirir */
+    }
+
+    
+
+
+#blazor-error-ui {
+    background: inherit;
+    bottom: 0;
+    display: none;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 100001;
+}
+/* Örneðin: custom-icons.css içine ekleyebilirsin */
+.mail-custom-icon {
+    background-image: url('/images/mail.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 1.2em;
+    height: 1.2em;
+    vertical-align: middle;
+}

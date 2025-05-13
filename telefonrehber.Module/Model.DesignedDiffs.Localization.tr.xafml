@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <NavigationItems>
+    <Items>
+      <Item Id="@4d868781-f11e-40d5-9192-515c2d692a28" Caption="Report">
+        <Items>
+          <Item Id="@6a98fa59-dd3c-499a-baf0-6c33a960b143" Caption="Rapor" />
+          <Item Id="Report" Caption="Kişi Raporu" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+</Application>

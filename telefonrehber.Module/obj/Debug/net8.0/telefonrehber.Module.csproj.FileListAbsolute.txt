@@ -1,0 +1,16 @@
+C:\Users\burak\source\devexpress\telefonrehber\telefonrehber.Module\obj\Debug\net8.0\telefonrehber.Module.csproj.AssemblyReference.cache
+C:\Users\burak\source\devexpress\telefonrehber\telefonrehber.Module\obj\Debug\net8.0\telefonrehber.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\devexpress\telefonrehber\telefonrehber.Module\obj\Debug\net8.0\telefonrehber.Module.AssemblyInfoInputs.cache
+C:\Users\burak\source\devexpress\telefonrehber\telefonrehber.Module\obj\Debug\net8.0\telefonrehber.Module.AssemblyInfo.cs
+C:\Users\burak\source\devexpress\telefonrehber\telefonrehber.Module\obj\Debug\net8.0\telefonrehber.Module.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\devexpress\telefonrehber\telefonrehber.Module\bin\Debug\net8.0\telefonrehber.Module.deps.json
+C:\Users\burak\source\devexpress\telefonrehber\telefonrehber.Module\bin\Debug\net8.0\telefonrehber.Module.dll
+C:\Users\burak\source\devexpress\telefonrehber\telefonrehber.Module\bin\Debug\net8.0\telefonrehber.Module.pdb
+C:\Users\burak\source\devexpress\telefonrehber\telefonrehber.Module\obj\Debug\net8.0\telefonrehber.Module.dll
+C:\Users\burak\source\devexpress\telefonrehber\telefonrehber.Module\obj\Debug\net8.0\refint\telefonrehber.Module.dll
+C:\Users\burak\source\devexpress\telefonrehber\telefonrehber.Module\obj\Debug\net8.0\telefonrehber.Module.pdb
+C:\Users\burak\source\devexpress\telefonrehber\telefonrehber.Module\obj\Debug\net8.0\ref\telefonrehber.Module.dll
+C:\Users\burak\source\devexpress\telefonrehber\telefonrehber.Module\obj\Debug\net8.0\telefonrehber.Module.csproj.GenerateResource.cache
+C:\Users\burak\source\devexpress\telefonrehber\telefonrehber.Module\obj\Debug\net8.0\telefonrehber.Module.Reports.XtraReport1.resources
+C:\Users\burak\source\devexpress\telefonrehber\telefonrehber.Module\bin\Debug\net8.0\telefonrehber.Module.runtimeconfig.json
+C:\Users\burak\source\devexpress\telefonrehber\telefonrehber.Module\obj\Debug\net8.0\telefonrehber.Module.genruntimeconfig.cache

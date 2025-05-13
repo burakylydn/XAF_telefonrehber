@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.blazor.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|solutionrelative:telefonrehber.blazor.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|solutionrelative:telefonrehber.blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.module\\businessobjects\\contactreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|solutionrelative:telefonrehber.module\\businessobjects\\contactreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.module\\businessobjects\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|solutionrelative:telefonrehber.module\\businessobjects\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.module\\businessobjects\\applicationuserlogininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|solutionrelative:telefonrehber.module\\businessobjects\\applicationuserlogininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.module\\businessobjects\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|solutionrelative:telefonrehber.module\\businessobjects\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.module\\databaseupdate\\updater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|solutionrelative:telefonrehber.module\\databaseupdate\\updater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.module\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|solutionrelative:telefonrehber.module\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.blazor.server\\blazorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|solutionrelative:telefonrehber.blazor.server\\blazorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.blazor.server\\telefonrehber.blazor.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|solutionrelative:telefonrehber.blazor.server\\telefonrehber.blazor.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.module\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|solutionrelative:telefonrehber.module\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.blazor.server\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|solutionrelative:telefonrehber.blazor.server\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.blazor.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|solutionrelative:telefonrehber.blazor.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.blazor.server\\blazormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|solutionrelative:telefonrehber.blazor.server\\blazormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.blazor.server\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|solutionrelative:telefonrehber.blazor.server\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.blazor.server\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|solutionrelative:telefonrehber.blazor.server\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.module\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|solutionrelative:telefonrehber.module\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.module\\controllers\\contactreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|solutionrelative:telefonrehber.module\\controllers\\contactreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.module\\controllers\\contactemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|solutionrelative:telefonrehber.module\\controllers\\contactemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.module\\controllers\\validationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|solutionrelative:telefonrehber.module\\controllers\\validationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.module\\xtrareport1.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form",
+      "RelativeMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|solutionrelative:telefonrehber.module\\xtrareport1.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.module\\xtrareport1.cs||{95027D70-C6B4-4736-8A48-AD3582187321}",
+      "RelativeMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|solutionrelative:telefonrehber.module\\xtrareport1.cs||{95027D70-C6B4-4736-8A48-AD3582187321}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.module\\model.designeddiffs.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}",
+      "RelativeMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|solutionrelative:telefonrehber.module\\model.designeddiffs.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.module\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|solutionrelative:telefonrehber.module\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.blazor.server\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DDEA4967-AD2F-4371-AFB2-F4C8A27611F1}|telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj|solutionrelative:telefonrehber.blazor.server\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|c:\\users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.module\\model.designeddiffs.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1752D3F3-D730-4219-980E-C58B7CA104D3}|telefonrehber.Module\\telefonrehber.Module.csproj|solutionrelative:telefonrehber.module\\model.designeddiffs.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 264,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Updater.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\DatabaseUpdate\\Updater.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Module\\DatabaseUpdate\\Updater.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\DatabaseUpdate\\Updater.cs",
+              "RelativeToolTip": "telefonrehber.Module\\DatabaseUpdate\\Updater.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAEwH8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:00:25.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\_Imports.razor",
+              "RelativeDocumentMoniker": "telefonrehber.Blazor.Server\\_Imports.razor",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\_Imports.razor",
+              "RelativeToolTip": "telefonrehber.Blazor.Server\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T10:58:13.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContactReportController.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Controllers\\ContactReportController.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Module\\Controllers\\ContactReportController.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Controllers\\ContactReportController.cs",
+              "RelativeToolTip": "telefonrehber.Module\\Controllers\\ContactReportController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:25:24.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\Program.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Blazor.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\Program.cs",
+              "RelativeToolTip": "telefonrehber.Blazor.Server\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAEwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:29:48.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\App.razor",
+              "RelativeDocumentMoniker": "telefonrehber.Blazor.Server\\App.razor",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\App.razor",
+              "RelativeToolTip": "telefonrehber.Blazor.Server\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:29:26.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlazorApplication.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\BlazorApplication.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Blazor.Server\\BlazorApplication.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\BlazorApplication.cs",
+              "RelativeToolTip": "telefonrehber.Blazor.Server\\BlazorApplication.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:29:32.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "telefonrehber.Blazor.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\appsettings.json",
+              "RelativeToolTip": "telefonrehber.Blazor.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T08:49:26.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\BusinessObjects\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Module\\BusinessObjects\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\BusinessObjects\\ApplicationUser.cs",
+              "RelativeToolTip": "telefonrehber.Module\\BusinessObjects\\ApplicationUser.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:00:13.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUserLoginInfo.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\BusinessObjects\\ApplicationUserLoginInfo.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Module\\BusinessObjects\\ApplicationUserLoginInfo.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\BusinessObjects\\ApplicationUserLoginInfo.cs",
+              "RelativeToolTip": "telefonrehber.Module\\BusinessObjects\\ApplicationUserLoginInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:06:37.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\BusinessObjects\\Contact.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Module\\BusinessObjects\\Contact.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\BusinessObjects\\Contact.cs",
+              "RelativeToolTip": "telefonrehber.Module\\BusinessObjects\\Contact.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwGMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:46:44.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactReport.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\BusinessObjects\\ContactReport.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Module\\BusinessObjects\\ContactReport.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\BusinessObjects\\ContactReport.cs",
+              "RelativeToolTip": "telefonrehber.Module\\BusinessObjects\\ContactReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:36:00.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "telefonrehber.Blazor.Server\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "telefonrehber.Blazor.Server\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAgwGQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:24:35.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\Startup.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Blazor.Server\\Startup.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\Startup.cs",
+              "RelativeToolTip": "telefonrehber.Blazor.Server\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:15:45.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Module\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "telefonrehber.Module\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:36:21.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Module.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Module\\Module.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Module.cs",
+              "RelativeToolTip": "telefonrehber.Module\\Module.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:35:25.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "telefonrehber.Blazor.Server",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj",
+              "RelativeDocumentMoniker": "telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj",
+              "RelativeToolTip": "telefonrehber.Blazor.Server\\telefonrehber.Blazor.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T07:00:32.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlazorModule.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\BlazorModule.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Blazor.Server\\BlazorModule.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\BlazorModule.cs",
+              "RelativeToolTip": "telefonrehber.Blazor.Server\\BlazorModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:29:42.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContactEmailController.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Controllers\\ContactEmailController.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Module\\Controllers\\ContactEmailController.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Controllers\\ContactEmailController.cs",
+              "RelativeToolTip": "telefonrehber.Module\\Controllers\\ContactEmailController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:57:01.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValidationController.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Controllers\\ValidationController.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Module\\Controllers\\ValidationController.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Controllers\\ValidationController.cs",
+              "RelativeToolTip": "telefonrehber.Module\\Controllers\\ValidationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:56:03.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "XtraReport1.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\XtraReport1.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Module\\XtraReport1.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\XtraReport1.cs",
+              "RelativeToolTip": "telefonrehber.Module\\XtraReport1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwC4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:16:31.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Module\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "telefonrehber.Module\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:06:47.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Model.DesignedDiffs.xafml",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Model.DesignedDiffs.xafml",
+              "RelativeDocumentMoniker": "telefonrehber.Module\\Model.DesignedDiffs.xafml",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Model.DesignedDiffs.xafml",
+              "RelativeToolTip": "telefonrehber.Module\\Model.DesignedDiffs.xafml",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALHSURBVDhPpZJLaJRXFMd/997vyzffJOZhMiG2SWui0egE20oRKoJYXdguXHRRC5U02SiCddFVFcEHgqBQEIJiFxZFBZ1StbaIClLaaiCg1hoTOypGE5NUnZjJJPP4Hvd2Y4IObqS/1Xn8z\u002BFw\u002BMP/wRhTXHpjRHEBwJi1DWQnPsNPtSPsEZzYARx1QYiEV6x9ZYH5YcPscEV6jahPfiN9710CAwqQiuxg2W\u002BXZN32543h3x3i7Nj0ArN/tUNJ\u002BUqy6Q4mMsuCily1Xpy37UUWYoag8BR6b3lcCzxS70XHZZnzoNKqOW6LSKLDPdsvzHcf/8FkZhlhAEKCloDGrxnleavFpdEs/R9YmAYX5YcY32AA140OunpmpxjctNDMqitFWgrQBJk0fcOaP93lDCxtY2xmDzOaD1EZG8Z2y0HYKMsw0lPgViJ7XXR92aKro1LU1UYYShf4Xce5GV/PeONKAFQISj/Erfie6rnncNw8yQsevb/k0AV1WXS3t06qoBD1cpP8WN/OyKe7cCMKkQP0i0dJMEAudYxg8luS5wtgG2pr6k5I4UQHwyDAUpKs55NK9qFH09g2SAvsKOggw72LJ/jn14sUMgpZAqH2eDv2zl1Z0TR/vSytvIP2qcinyI8OMdzTRfpxP8rSpJI3uH5kF4\u002Bu/IztThD6PoEX0lTfcqypvvmgAOjb89XssP\u002BvA6czjZ9cbtmIoz2k5RDk0gx0n8MEPkZHicVHqHrrxnjZ2LydwZLY/sTniXDaSMP71pWe8RasO\u002BW9f1CZUEQiUcYGbpNKdiOURXbC56PltefnLBjasrvt1M1pI00FU7R1Xt3w7NnTvaF0ynNP7vNv7xVAEKuqOr161Ydfb9vY/vhlvXw5ATi6aemheENsjVsie/MFDyHw4/PnbJ3VWv1F8TCvu2CKzYe7mofuJ3er9IOfTnbuOFncn\u002BI/oRwphccLAkQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-07T12:18:27.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "XtraReport1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\XtraReport1.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Module\\XtraReport1.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\XtraReport1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "telefonrehber.Module\\XtraReport1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:04:16.697Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "telefonrehber.Module\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Services\\EmailService.cs",
+              "RelativeToolTip": "telefonrehber.Module\\Services\\EmailService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA6wCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:00:21.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "telefonrehber.Blazor.Server\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "telefonrehber.Blazor.Server\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-19T20:55:17.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Model.DesignedDiffs.log",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Model.DesignedDiffs.log",
+              "RelativeDocumentMoniker": "telefonrehber.Module\\Model.DesignedDiffs.log",
+              "ToolTip": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Module\\Model.DesignedDiffs.log",
+              "RelativeToolTip": "telefonrehber.Module\\Model.DesignedDiffs.log",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBZwAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-17T09:38:02.498Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

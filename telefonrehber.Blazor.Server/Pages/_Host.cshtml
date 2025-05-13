@@ -1,0 +1,114 @@
+﻿@page "/"
+@namespace telefonrehber.Blazor.Server
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using DevExpress.ExpressApp.Blazor.Components
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <!-- meta name="theme-color" content="#000000" -->
+    <title>telefonrehber</title>
+    <link rel="icon" type="image/png" href="~/images/galaksity_logo.png" />
+    <base href="~/" />
+    <component type="typeof(BootstrapThemeLink)" render-mode="Static" />
+    <style>
+        /* SplashScreen Resim Boyutunu Artırma */
+        :root {
+            --loading-image-size: 100px;
+        }
+
+        .loading-image{
+            width: var(--loading-image-size) !important;
+            height: var(--loading-image-size) !important;
+            max-width: none !important;
+            max-height: none !important;
+        }
+        .dxbs-splashscreen-image {
+            width: var(--dxbs-splashscreen-image-size) !important;
+            height: var(--dxbs-splashscreen-image-size) !important;
+            max-width: none !important;
+            max-height: none !important;
+        }
+
+        /* SplashScreen İçin Genel Stil */
+        .dxbs-splashscreen {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            height: 100vh;
+            background-color: white !important; /* Arkaplan rengini değiştirebilirsin */
+        }
+
+        /* Yükleniyor Yazısının Boyutunu Artırma */
+        .dxbs-splashscreen-caption {
+            font-size: 1.5rem !important;
+            font-weight: bold;
+            color: #333;
+            margin-top: 10px;
+        }
+
+    </style>
+</head>
+<body>
+    @{
+        string userAgent = Request.Headers["User-Agent"];
+        bool isIE = userAgent.Contains("MSIE") || userAgent.Contains("Trident");
+    }
+    @if(isIE) {
+        <link href="css/site.css" rel="stylesheet" />
+        <div class="d-flex flex-column justify-content-center align-items-center h-100">
+            <div class="d-flex">
+                <img class="mt-2 mr-4" src="_content/DevExpress.ExpressApp.Blazor/images/Sad.svg" width="60" height="60" />
+                <div>
+                    <div class="h1">Internet Explorer is not supported.</div>
+                    <p style="font-size: 1rem; opacity: 0.75;" class="m-0">telefonrehber cannot be loaded in Internet Explorer.<br>Please use a different browser.</p>
+                </div>
+            </div>
+        </div>
+    }
+    else {
+        @* <div class="custom-splash-screen">
+            <div class="loading-content">
+                <div class="loading-border loading-border-primary loading">
+                    <div class="loading-image-wrapper">
+                        <img src="images/galaksity_logo.svg" class="loading-image" />
+                    </div>
+                </div>
+                <div class="loading-caption">TelefonRehber Yükleniyor...</div>
+            </div>
+        </div> *@
+
+         <component type="typeof(SplashScreen)" render-mode="Static" param-Caption='"TelefonRehber Yükleniyor..."' param-ImagePath='"images/galaksity_logo1.svg"' />
+ 
+        <link href="_content/DevExpress.ExpressApp.Blazor/styles.css" asp-append-version="true" rel="stylesheet" />
+        <link href="css/site.css" rel="stylesheet" />
+        // Uncomment this link to enable CSS isolation. For more information, refer to the following topic: https://learn.microsoft.com/en-us/aspnet/core/blazor/components/css-isolation
+        //<link href="telefonrehber.Blazor.Server.styles.css" rel="stylesheet">
+
+        <app class="d-none">
+            <component type="typeof(App)" render-mode="Server" />
+        </app>
+
+        <component type="typeof(AlertsHandler)" render-mode="Server" />
+
+        <div id="blazor-error-ui">
+            <component type="typeof(BlazorError)" render-mode="Static" />
+        </div>
+        @* <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                setTimeout(() => {
+                    document.querySelector(".custom-splash-screen").style.display = "none";
+                }, 2000); // 2 saniye sonra kaldır
+            });
+            Blazor.start().then(() => { document.querySelector(".custom-splash-screen").style.display = "none"; });
+        </script> *@
+
+        <script src="_framework/blazor.server.js"></script>
+    }
+</body>
+</html>

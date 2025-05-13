@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\wwwroot\\galaksity_logo.ico",
+      "PackagePath": "staticwebassets\\galaksity_logo.ico"
+    },
+    {
+      "Id": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "PackagePath": "staticwebassets\\images\\Logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "PackagePath": "staticwebassets\\images\\SplashScreen.svg"
+    },
+    {
+      "Id": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\wwwroot\\images\\galaksity_logo.png",
+      "PackagePath": "staticwebassets\\images\\galaksity_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\wwwroot\\images\\galaksity_logo1.svg",
+      "PackagePath": "staticwebassets\\images\\galaksity_logo1.svg"
+    },
+    {
+      "Id": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\wwwroot\\images\\galaksity_logo_white_4.png",
+      "PackagePath": "staticwebassets\\images\\galaksity_logo_white_4.png"
+    },
+    {
+      "Id": "C:\\Users\\burak\\source\\devexpress\\telefonrehber\\telefonrehber.Blazor.Server\\wwwroot\\images\\transparent-logo.png",
+      "PackagePath": "staticwebassets\\images\\transparent-logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.telefonrehber.Blazor.Server.props",
+      "PackagePath": "build\\telefonrehber.Blazor.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.telefonrehber.Blazor.Server.props",
+      "PackagePath": "buildMultiTargeting\\telefonrehber.Blazor.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.telefonrehber.Blazor.Server.props",
+      "PackagePath": "buildTransitive\\telefonrehber.Blazor.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.telefonrehber.Blazor.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.telefonrehber.Blazor.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,9 @@
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\galaksity_logo.ico
+wwwroot\images\galaksity_logo.png
+wwwroot\images\galaksity_logo_white_4.png
+wwwroot\images\galaksity_logo1.svg
+wwwroot\images\Logo.svg
+wwwroot\images\SplashScreen.svg
+wwwroot\images\transparent-logo.png
